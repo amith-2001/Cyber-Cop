@@ -1,5 +1,5 @@
 # Cyber-Cop
-An API service for detection of sexual content in the video or audio file for the social media platforms
+An API service for detection of sexual content in the video or audio file for the social media platforms.
 
 
 Applications - 
@@ -10,3 +10,4 @@ Applications -
 > (eg- Facebook, Instagram, youtube, and so on..)
 > It can be used as a filter in educational, government, private, institutes, and also in Hostel.
 > It also can be used in airports and live streaming podcasts
+
